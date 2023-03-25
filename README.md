@@ -1,6 +1,7 @@
 
- 🌱 I’m currently learning React Native
- 👯 I'm looking to collaborate on Mobile Apps development related projects.
+ -🌱 I’m currently learning React Native
+ 
+ -👯 I'm looking to collaborate on Mobile Apps development related projects.
 
 
 ## 🌐 Socials:
